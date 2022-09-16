@@ -1,2 +1,18 @@
 @Krishna-Sarigopula
 
+docker commands
+
+docker build -t  microservices/platform . // build image
+docker run -p 8080:80 -d microservices/platform // run image
+docker start b1692966823a  // start image
+docker stop b1692966823a // stop image
+docker ps //show images
+docker ps -a //show all images
+
+kubernetes commands
+ls  // show files in folder
+kubectl apply -f commands-depl // apply
+kubectl get deployments // get deployments
+kubectl get pods //
+kubectl delete deployment platform  //delete deployment
+ kubectl get services //

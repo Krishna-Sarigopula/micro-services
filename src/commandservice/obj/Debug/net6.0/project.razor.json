@@ -1,5 +1,5 @@
 {
-  "FilePath": "k:\\micro-services\\src\\platformService\\platformService.csproj",
+  "FilePath": "k:\\micro-services\\src\\commandservice\\commandservice.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16295,7 +16295,7 @@
     ],
     "CSharpLanguageVersion": 1000
   },
-  "RootNamespace": "platformService",
+  "RootNamespace": "commandservice",
   "Documents": [],
   "SerializationFormat": "0.2"
 }
